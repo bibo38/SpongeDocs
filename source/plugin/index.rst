@@ -30,6 +30,7 @@ Contents
     project/index
     plugin-identifier
     plugin-class
+    ore-publish
     lifecycle
     injection
     practices
